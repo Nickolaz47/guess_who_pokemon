@@ -31,7 +31,7 @@
     "gray",
     "black"
   ],
-  "generation": ["generation 1", "generation 2", "generation 3"],
+  "generation": ["I", "II", "III"],
   "habitat": [
     "grassland",
     "mountain",
@@ -43,7 +43,7 @@
     "sea",
     "rare"
   ],
-  "legendary": [false, true],
+  "legendary": ["false", "true"],
   "shape": [
     "quadruped",
     "upright",
