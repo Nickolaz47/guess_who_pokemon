@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.respostas {
+  text-align: center;
+  width: 80%;
+  list-style: none;
+}

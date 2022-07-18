@@ -1,0 +1,63 @@
+{
+  "type": [
+    "grass",
+    "poison",
+    "fire",
+    "flying",
+    "water",
+    "bug",
+    "normal",
+    "electric",
+    "ground",
+    "fairy",
+    "fighting",
+    "psychic",
+    "rock",
+    "steel",
+    "ice",
+    "ghost",
+    "dragon",
+    "dark"
+  ],
+  "color": [
+    "green",
+    "red",
+    "blue",
+    "white",
+    "brown",
+    "yellow",
+    "purple",
+    "pink",
+    "gray",
+    "black"
+  ],
+  "generation": ["generation 1", "generation 2", "generation 3"],
+  "habitat": [
+    "grassland",
+    "mountain",
+    "waters-edge",
+    "forest",
+    "rough-terrain",
+    "cave",
+    "urban",
+    "sea",
+    "rare"
+  ],
+  "legendary": [false, true],
+  "shape": [
+    "quadruped",
+    "upright",
+    "armor",
+    "squiggle",
+    "bug-wings",
+    "wings",
+    "humanoid",
+    "legs",
+    "blob",
+    "heads",
+    "tentacles",
+    "arms",
+    "fish",
+    "ball"
+  ]
+}

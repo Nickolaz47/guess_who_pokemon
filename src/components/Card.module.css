@@ -1,0 +1,45 @@
+.moldura {
+  border: 1px solid black;
+  background: radial-gradient(farthest-corner, cyan, rgb(77, 136, 212), blue),
+    100%;
+  margin: 10px;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.figura {
+  width: 125px;
+  height: 175px;
+  margin: 0px;
+}
+
+.sprite {
+  width: 100%;
+  background: radial-gradient(black, gray, white), 100%;
+}
+
+.legenda {
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: bold;
+  border: 1px solid black;
+  background: radial-gradient(farthest-corner at 25px 25px, red, yellow, orange),
+    100%;
+  background-color: lightskyblue;
+}
+
+.btnGuess {
+  height: 5px;
+  margin-top: 3px;
+  background: radial-gradient(
+    farthest-corner at 25px 25px,
+    rgb(255, 184, 184),
+    rgb(255, 255, 195),
+    rgb(241, 209, 149)
+  );
+  padding: 10px;
+  padding-top: 0px;
+  height: 21px;
+  font-size: 90%;
+}
