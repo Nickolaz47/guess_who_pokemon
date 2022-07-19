@@ -2,17 +2,27 @@ import styles from "./Menu.module.css";
 import filters from "../data/filters.json";
 import { useState, useEffect, useContext } from "react";
 import { OptionContext } from "../context/OptionContext";
+import { useFilter } from "../hooks/useFilter";
+import { PokemonContext } from "../context/PokemonContext";
 
 const Menu = () => {
+  const {pokemonDB, setPokemonDB} = useContext(PokemonContext);
   const { selectOption, setSelectedOption } = useContext(OptionContext);
   const [allFilters, setAllFilters] = useState(filters);
   const [checkOption, setCheckOption] = useState();
+  const { filterPokemon } = useFilter();
 
   useEffect(() => {
     if (Object.keys(selectOption).length !== 0) {
       setCheckOption(true);
     }
   }, [selectOption]);
+
+  const handleSelection = () => {
+    filterPokemon(selectOption);
+    setCheckOption(false);
+  }
+
 
   return (
     <div>
@@ -31,7 +41,7 @@ const Menu = () => {
               }
               disabled={checkOption}
             >
-              <option value={undefined} selected disabled>
+              <option selected>
                 Choose
               </option>
               {entrie[1].map((value) => (
@@ -43,11 +53,11 @@ const Menu = () => {
           </label>
         ))}
       </p>
-      <p>
+      <div>
         <div>Selected filter: {selectOption.filter}</div>
         <div>Selected option: {selectOption.option}</div>
-      </p>
-      <button>Try</button>
+      </div>
+      <button onClick={handleSelection}>Try</button>
     </div>
   );
 };
