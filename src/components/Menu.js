@@ -31,9 +31,12 @@ const Menu = () => {
               }
               disabled={checkOption}
             >
+              <option value={undefined} selected disabled>
+                Choose
+              </option>
               {entrie[1].map((value) => (
                 <option value={value} key={value}>
-                  {value}
+                  {value.toString()}
                 </option>
               ))}
             </select>

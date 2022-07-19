@@ -7,9 +7,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
     "color": "green",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -20,9 +20,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
     "color": "green",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -33,9 +33,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
     "color": "green",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -45,9 +45,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
     "color": "red",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -57,9 +57,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
     "color": "red",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -70,9 +70,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
     "color": "red",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -82,9 +82,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -94,9 +94,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -106,9 +106,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -118,9 +118,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
     "color": "green",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "armor"
   },
   {
@@ -130,9 +130,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
     "color": "green",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "squiggle"
   },
   {
@@ -143,9 +143,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
     "color": "white",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "bug-wings"
   },
   {
@@ -156,9 +156,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "armor"
   },
   {
@@ -169,9 +169,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
     "color": "yellow",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "squiggle"
   },
   {
@@ -182,9 +182,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
     "color": "yellow",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "bug-wings"
   },
   {
@@ -195,9 +195,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -208,9 +208,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -221,9 +221,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -233,9 +233,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -245,9 +245,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -258,9 +258,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -271,9 +271,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -283,9 +283,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "squiggle"
   },
   {
@@ -295,9 +295,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "squiggle"
   },
   {
@@ -307,9 +307,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
     "color": "yellow",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -319,9 +319,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
     "color": "yellow",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -331,9 +331,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
     "color": "yellow",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -343,9 +343,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
     "color": "yellow",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -355,9 +355,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -367,9 +367,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -380,9 +380,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -392,9 +392,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -404,9 +404,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -417,9 +417,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -429,9 +429,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
     "color": "pink",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -441,9 +441,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
     "color": "pink",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -453,9 +453,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -465,9 +465,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
     "color": "yellow",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -478,9 +478,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
     "color": "pink",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -491,9 +491,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
     "color": "pink",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -504,9 +504,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -517,9 +517,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -530,9 +530,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "legs"
   },
   {
@@ -543,9 +543,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -556,9 +556,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
     "color": "red",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -569,9 +569,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
     "color": "red",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "armor"
   },
   {
@@ -582,9 +582,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
     "color": "red",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "armor"
   },
   {
@@ -595,9 +595,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -608,9 +608,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "bug-wings"
   },
   {
@@ -620,9 +620,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "blob"
   },
   {
@@ -632,9 +632,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "heads"
   },
   {
@@ -644,9 +644,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
     "color": "yellow",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -656,9 +656,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
     "color": "yellow",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -668,9 +668,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
     "color": "yellow",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -680,9 +680,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -692,9 +692,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -704,9 +704,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -716,9 +716,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -728,9 +728,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -740,9 +740,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "legs"
   },
   {
@@ -752,9 +752,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -765,9 +765,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -777,9 +777,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -789,9 +789,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -801,9 +801,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -813,9 +813,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
     "color": "gray",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -825,9 +825,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
     "color": "gray",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -837,9 +837,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
     "color": "gray",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -850,9 +850,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
     "color": "green",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -863,9 +863,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
     "color": "green",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "blob"
   },
   {
@@ -876,9 +876,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
     "color": "green",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "blob"
   },
   {
@@ -889,9 +889,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "tentacles"
   },
   {
@@ -902,9 +902,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "tentacles"
   },
   {
@@ -915,9 +915,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "arms"
   },
   {
@@ -928,9 +928,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -941,9 +941,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -953,9 +953,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
     "color": "yellow",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -965,9 +965,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
     "color": "yellow",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -978,9 +978,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
     "color": "pink",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -991,9 +991,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
     "color": "pink",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -1004,9 +1004,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
     "color": "gray",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "arms"
   },
   {
@@ -1017,9 +1017,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
     "color": "gray",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "heads"
   },
   {
@@ -1030,9 +1030,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -1043,9 +1043,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "legs"
   },
   {
@@ -1056,9 +1056,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "legs"
   },
   {
@@ -1068,9 +1068,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
     "color": "white",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "fish"
   },
   {
@@ -1081,9 +1081,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
     "color": "white",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "fish"
   },
   {
@@ -1093,9 +1093,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "arms"
   },
   {
@@ -1105,9 +1105,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "arms"
   },
   {
@@ -1117,9 +1117,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "ball"
   },
   {
@@ -1130,9 +1130,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "ball"
   },
   {
@@ -1143,9 +1143,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "ball"
   },
   {
@@ -1156,9 +1156,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "arms"
   },
   {
@@ -1169,9 +1169,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -1182,9 +1182,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
     "color": "gray",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "squiggle"
   },
   {
@@ -1194,9 +1194,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
     "color": "yellow",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -1206,9 +1206,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
     "color": "yellow",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -1218,9 +1218,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
     "color": "red",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "armor"
   },
   {
@@ -1230,9 +1230,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
     "color": "red",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "armor"
   },
   {
@@ -1242,9 +1242,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
     "color": "red",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "ball"
   },
   {
@@ -1254,9 +1254,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
     "color": "red",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "ball"
   },
   {
@@ -1267,9 +1267,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
     "color": "pink",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "heads"
   },
   {
@@ -1280,9 +1280,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
     "color": "yellow",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "legs"
   },
   {
@@ -1292,9 +1292,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -1304,9 +1304,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -1316,9 +1316,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -1328,9 +1328,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -1340,9 +1340,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
     "color": "pink",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -1352,9 +1352,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "ball"
   },
   {
@@ -1364,9 +1364,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "heads"
   },
   {
@@ -1377,9 +1377,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
     "color": "gray",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -1390,9 +1390,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
     "color": "gray",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -1402,9 +1402,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
     "color": "pink",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -1414,9 +1414,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "legs"
   },
   {
@@ -1426,9 +1426,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -1438,9 +1438,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "blob"
   },
   {
@@ -1450,9 +1450,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "blob"
   },
   {
@@ -1462,9 +1462,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
     "color": "red",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "fish"
   },
   {
@@ -1474,9 +1474,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
     "color": "red",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "fish"
   },
   {
@@ -1486,9 +1486,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "blob"
   },
   {
@@ -1499,9 +1499,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "blob"
   },
   {
@@ -1512,9 +1512,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
     "color": "pink",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -1525,9 +1525,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
     "color": "green",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "bug-wings"
   },
   {
@@ -1538,9 +1538,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
     "color": "red",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -1550,9 +1550,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
     "color": "yellow",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -1562,9 +1562,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
     "color": "red",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -1574,9 +1574,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -1586,9 +1586,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -1598,9 +1598,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
     "color": "red",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "fish"
   },
   {
@@ -1611,9 +1611,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "squiggle"
   },
   {
@@ -1624,9 +1624,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "fish"
   },
   {
@@ -1636,9 +1636,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "ball"
   },
   {
@@ -1648,9 +1648,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -1660,9 +1660,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -1672,9 +1672,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
     "color": "yellow",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -1684,9 +1684,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
     "color": "red",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -1696,9 +1696,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
     "color": "pink",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "legs"
   },
   {
@@ -1709,9 +1709,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "tentacles"
   },
   {
@@ -1722,9 +1722,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "tentacles"
   },
   {
@@ -1735,9 +1735,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "armor"
   },
   {
@@ -1748,9 +1748,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -1761,9 +1761,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -1773,9 +1773,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
     "color": "black",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -1786,9 +1786,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "rare",
-    "isLegendary": true,
+    "legendary": true,
     "shape": "wings"
   },
   {
@@ -1799,9 +1799,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
     "color": "yellow",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "rare",
-    "isLegendary": true,
+    "legendary": true,
     "shape": "wings"
   },
   {
@@ -1812,9 +1812,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
     "color": "yellow",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "rare",
-    "isLegendary": true,
+    "legendary": true,
     "shape": "wings"
   },
   {
@@ -1824,9 +1824,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "squiggle"
   },
   {
@@ -1836,9 +1836,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
     "color": "blue",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "squiggle"
   },
   {
@@ -1849,9 +1849,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
     "color": "brown",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -1861,9 +1861,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
     "color": "purple",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "rare",
-    "isLegendary": true,
+    "legendary": true,
     "shape": "upright"
   },
   {
@@ -1873,9 +1873,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
     "color": "pink",
-    "generation": "generation-i",
+    "generation": "I",
     "habitat": "rare",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -1885,9 +1885,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png",
     "color": "green",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -1897,9 +1897,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png",
     "color": "green",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -1909,9 +1909,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png",
     "color": "green",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -1921,9 +1921,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png",
     "color": "yellow",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -1933,9 +1933,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png",
     "color": "yellow",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -1945,9 +1945,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png",
     "color": "yellow",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -1957,9 +1957,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png",
     "color": "blue",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -1969,9 +1969,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png",
     "color": "blue",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -1981,9 +1981,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png",
     "color": "blue",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -1993,9 +1993,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png",
     "color": "brown",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -2005,9 +2005,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png",
     "color": "brown",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -2018,9 +2018,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png",
     "color": "brown",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -2031,9 +2031,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png",
     "color": "brown",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -2044,9 +2044,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/165.png",
     "color": "red",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -2057,9 +2057,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png",
     "color": "red",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -2070,9 +2070,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png",
     "color": "green",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "armor"
   },
   {
@@ -2083,9 +2083,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/168.png",
     "color": "red",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "armor"
   },
   {
@@ -2096,9 +2096,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png",
     "color": "purple",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "bug-wings"
   },
   {
@@ -2109,9 +2109,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/170.png",
     "color": "blue",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "fish"
   },
   {
@@ -2122,9 +2122,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png",
     "color": "blue",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "fish"
   },
   {
@@ -2134,9 +2134,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png",
     "color": "yellow",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -2146,9 +2146,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png",
     "color": "pink",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -2159,9 +2159,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/174.png",
     "color": "pink",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -2171,9 +2171,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png",
     "color": "white",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -2184,9 +2184,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png",
     "color": "white",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -2197,9 +2197,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png",
     "color": "green",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -2210,9 +2210,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png",
     "color": "green",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -2222,9 +2222,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png",
     "color": "white",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -2234,9 +2234,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png",
     "color": "pink",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -2246,9 +2246,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png",
     "color": "yellow",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -2258,9 +2258,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png",
     "color": "green",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -2271,9 +2271,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png",
     "color": "blue",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -2284,9 +2284,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png",
     "color": "blue",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -2296,9 +2296,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png",
     "color": "brown",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -2308,9 +2308,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png",
     "color": "green",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -2321,9 +2321,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png",
     "color": "pink",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -2334,9 +2334,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png",
     "color": "green",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -2347,9 +2347,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png",
     "color": "blue",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -2359,9 +2359,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png",
     "color": "purple",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -2371,9 +2371,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png",
     "color": "yellow",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "ball"
   },
   {
@@ -2383,9 +2383,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png",
     "color": "yellow",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -2396,9 +2396,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png",
     "color": "red",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "bug-wings"
   },
   {
@@ -2409,9 +2409,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png",
     "color": "blue",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "legs"
   },
   {
@@ -2422,9 +2422,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png",
     "color": "blue",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -2434,9 +2434,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png",
     "color": "purple",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -2446,9 +2446,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png",
     "color": "black",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -2459,9 +2459,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png",
     "color": "black",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -2472,9 +2472,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png",
     "color": "pink",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -2484,9 +2484,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png",
     "color": "gray",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "ball"
   },
   {
@@ -2496,9 +2496,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201.png",
     "color": "black",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "rare",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "ball"
   },
   {
@@ -2508,9 +2508,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png",
     "color": "blue",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "blob"
   },
   {
@@ -2521,9 +2521,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png",
     "color": "yellow",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -2533,9 +2533,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png",
     "color": "gray",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "ball"
   },
   {
@@ -2546,9 +2546,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png",
     "color": "purple",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "ball"
   },
   {
@@ -2558,9 +2558,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/206.png",
     "color": "yellow",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "squiggle"
   },
   {
@@ -2571,9 +2571,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png",
     "color": "purple",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -2584,9 +2584,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png",
     "color": "gray",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "squiggle"
   },
   {
@@ -2596,9 +2596,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png",
     "color": "pink",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -2608,9 +2608,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png",
     "color": "purple",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -2621,9 +2621,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png",
     "color": "gray",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "fish"
   },
   {
@@ -2634,9 +2634,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png",
     "color": "red",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "bug-wings"
   },
   {
@@ -2647,9 +2647,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png",
     "color": "yellow",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "armor"
   },
   {
@@ -2660,9 +2660,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png",
     "color": "blue",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -2673,9 +2673,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png",
     "color": "black",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -2685,9 +2685,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png",
     "color": "brown",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -2697,9 +2697,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png",
     "color": "brown",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -2709,9 +2709,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png",
     "color": "red",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "squiggle"
   },
   {
@@ -2722,9 +2722,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png",
     "color": "red",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "squiggle"
   },
   {
@@ -2735,9 +2735,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png",
     "color": "brown",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -2748,9 +2748,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png",
     "color": "brown",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -2761,9 +2761,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png",
     "color": "pink",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "armor"
   },
   {
@@ -2773,9 +2773,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png",
     "color": "gray",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "fish"
   },
   {
@@ -2785,9 +2785,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png",
     "color": "red",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "tentacles"
   },
   {
@@ -2798,9 +2798,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/225.png",
     "color": "red",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -2811,9 +2811,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png",
     "color": "purple",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -2824,9 +2824,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png",
     "color": "gray",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -2837,9 +2837,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/228.png",
     "color": "black",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -2850,9 +2850,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png",
     "color": "black",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -2863,9 +2863,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png",
     "color": "blue",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "blob"
   },
   {
@@ -2875,9 +2875,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png",
     "color": "blue",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -2887,9 +2887,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png",
     "color": "gray",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -2899,9 +2899,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png",
     "color": "red",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "legs"
   },
   {
@@ -2911,9 +2911,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png",
     "color": "brown",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -2923,9 +2923,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png",
     "color": "white",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -2935,9 +2935,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png",
     "color": "purple",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -2947,9 +2947,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png",
     "color": "brown",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -2960,9 +2960,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png",
     "color": "pink",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -2972,9 +2972,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png",
     "color": "yellow",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -2984,9 +2984,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png",
     "color": "red",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -2996,9 +2996,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png",
     "color": "pink",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -3008,9 +3008,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png",
     "color": "pink",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -3020,9 +3020,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png",
     "color": "yellow",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": true,
+    "legendary": true,
     "shape": "quadruped"
   },
   {
@@ -3032,9 +3032,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png",
     "color": "brown",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": true,
+    "legendary": true,
     "shape": "quadruped"
   },
   {
@@ -3044,9 +3044,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png",
     "color": "blue",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "grassland",
-    "isLegendary": true,
+    "legendary": true,
     "shape": "quadruped"
   },
   {
@@ -3057,9 +3057,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/246.png",
     "color": "green",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -3070,9 +3070,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png",
     "color": "gray",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "squiggle"
   },
   {
@@ -3083,9 +3083,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png",
     "color": "green",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -3096,9 +3096,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png",
     "color": "white",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "rare",
-    "isLegendary": true,
+    "legendary": true,
     "shape": "wings"
   },
   {
@@ -3109,9 +3109,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png",
     "color": "red",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "rare",
-    "isLegendary": true,
+    "legendary": true,
     "shape": "wings"
   },
   {
@@ -3122,9 +3122,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png",
     "color": "green",
-    "generation": "generation-ii",
+    "generation": "II",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -3134,9 +3134,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png",
     "color": "green",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -3146,9 +3146,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/253.png",
     "color": "green",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -3158,9 +3158,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png",
     "color": "green",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -3170,9 +3170,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png",
     "color": "red",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "legs"
   },
   {
@@ -3183,9 +3183,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/256.png",
     "color": "red",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -3196,9 +3196,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png",
     "color": "red",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -3208,9 +3208,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -3221,9 +3221,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/259.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -3234,9 +3234,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -3246,9 +3246,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/261.png",
     "color": "gray",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -3258,9 +3258,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png",
     "color": "gray",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -3270,9 +3270,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png",
     "color": "brown",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -3282,9 +3282,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/264.png",
     "color": "white",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -3294,9 +3294,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/265.png",
     "color": "red",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "armor"
   },
   {
@@ -3306,9 +3306,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/266.png",
     "color": "white",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "ball"
   },
   {
@@ -3319,9 +3319,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png",
     "color": "yellow",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "bug-wings"
   },
   {
@@ -3331,9 +3331,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/268.png",
     "color": "purple",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "ball"
   },
   {
@@ -3344,9 +3344,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/269.png",
     "color": "green",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "bug-wings"
   },
   {
@@ -3357,9 +3357,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/270.png",
     "color": "green",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "armor"
   },
   {
@@ -3370,9 +3370,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/271.png",
     "color": "green",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -3383,9 +3383,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png",
     "color": "green",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -3395,9 +3395,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/273.png",
     "color": "brown",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "legs"
   },
   {
@@ -3408,9 +3408,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/274.png",
     "color": "brown",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -3421,9 +3421,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png",
     "color": "brown",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -3434,9 +3434,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/276.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -3447,9 +3447,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -3460,9 +3460,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png",
     "color": "white",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -3473,9 +3473,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png",
     "color": "yellow",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -3486,9 +3486,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png",
     "color": "white",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -3499,9 +3499,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png",
     "color": "white",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -3512,9 +3512,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png",
     "color": "white",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -3525,9 +3525,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/283.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "armor"
   },
   {
@@ -3538,9 +3538,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "bug-wings"
   },
   {
@@ -3550,9 +3550,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png",
     "color": "brown",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "legs"
   },
   {
@@ -3563,9 +3563,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png",
     "color": "green",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -3575,9 +3575,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png",
     "color": "brown",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -3587,9 +3587,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png",
     "color": "white",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -3599,9 +3599,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png",
     "color": "brown",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -3612,9 +3612,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/290.png",
     "color": "gray",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "armor"
   },
   {
@@ -3625,9 +3625,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png",
     "color": "yellow",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "bug-wings"
   },
   {
@@ -3638,9 +3638,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png",
     "color": "brown",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "blob"
   },
   {
@@ -3650,9 +3650,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png",
     "color": "pink",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -3662,9 +3662,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/294.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -3674,9 +3674,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/295.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -3686,9 +3686,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png",
     "color": "yellow",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -3698,9 +3698,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png",
     "color": "brown",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -3711,9 +3711,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "legs"
   },
   {
@@ -3723,9 +3723,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/299.png",
     "color": "gray",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -3735,9 +3735,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png",
     "color": "pink",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -3747,9 +3747,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png",
     "color": "purple",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -3760,9 +3760,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302.png",
     "color": "purple",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -3773,9 +3773,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png",
     "color": "black",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -3786,9 +3786,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/304.png",
     "color": "gray",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -3799,9 +3799,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png",
     "color": "gray",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -3812,9 +3812,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png",
     "color": "gray",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -3825,9 +3825,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -3838,9 +3838,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png",
     "color": "red",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -3850,9 +3850,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/309.png",
     "color": "green",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -3862,9 +3862,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310.png",
     "color": "yellow",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -3874,9 +3874,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png",
     "color": "yellow",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -3886,9 +3886,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png",
     "color": "yellow",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -3898,9 +3898,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/313.png",
     "color": "gray",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -3910,9 +3910,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png",
     "color": "purple",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -3923,9 +3923,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png",
     "color": "green",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -3935,9 +3935,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/316.png",
     "color": "green",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "arms"
   },
   {
@@ -3947,9 +3947,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png",
     "color": "purple",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "arms"
   },
   {
@@ -3960,9 +3960,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png",
     "color": "red",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "fish"
   },
   {
@@ -3973,9 +3973,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "fish"
   },
   {
@@ -3985,9 +3985,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/320.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "fish"
   },
   {
@@ -3997,9 +3997,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "fish"
   },
   {
@@ -4010,9 +4010,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/322.png",
     "color": "yellow",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -4023,9 +4023,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323.png",
     "color": "red",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -4035,9 +4035,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png",
     "color": "brown",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -4047,9 +4047,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/325.png",
     "color": "black",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "arms"
   },
   {
@@ -4059,9 +4059,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/326.png",
     "color": "purple",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -4071,9 +4071,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png",
     "color": "brown",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -4083,9 +4083,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png",
     "color": "brown",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "armor"
   },
   {
@@ -4096,9 +4096,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/329.png",
     "color": "green",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "bug-wings"
   },
   {
@@ -4109,9 +4109,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png",
     "color": "green",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -4121,9 +4121,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/331.png",
     "color": "green",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -4134,9 +4134,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/332.png",
     "color": "green",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -4147,9 +4147,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -4160,9 +4160,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "wings"
   },
   {
@@ -4172,9 +4172,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/335.png",
     "color": "white",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -4184,9 +4184,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png",
     "color": "black",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "squiggle"
   },
   {
@@ -4197,9 +4197,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png",
     "color": "yellow",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "ball"
   },
   {
@@ -4210,9 +4210,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/338.png",
     "color": "red",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "ball"
   },
   {
@@ -4223,9 +4223,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png",
     "color": "gray",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "fish"
   },
   {
@@ -4236,9 +4236,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "fish"
   },
   {
@@ -4248,9 +4248,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/341.png",
     "color": "red",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "armor"
   },
   {
@@ -4261,9 +4261,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png",
     "color": "red",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "armor"
   },
   {
@@ -4274,9 +4274,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/343.png",
     "color": "brown",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "arms"
   },
   {
@@ -4287,9 +4287,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png",
     "color": "black",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "arms"
   },
   {
@@ -4300,9 +4300,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/345.png",
     "color": "purple",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "blob"
   },
   {
@@ -4313,9 +4313,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/346.png",
     "color": "green",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "blob"
   },
   {
@@ -4326,9 +4326,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/347.png",
     "color": "gray",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "armor"
   },
   {
@@ -4339,9 +4339,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/348.png",
     "color": "gray",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -4351,9 +4351,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/349.png",
     "color": "brown",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "fish"
   },
   {
@@ -4363,9 +4363,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png",
     "color": "pink",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "waters-edge",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "squiggle"
   },
   {
@@ -4375,9 +4375,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png",
     "color": "gray",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "ball"
   },
   {
@@ -4387,9 +4387,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/352.png",
     "color": "green",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -4399,9 +4399,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/353.png",
     "color": "black",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "ball"
   },
   {
@@ -4411,9 +4411,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png",
     "color": "black",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "urban",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -4423,9 +4423,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/355.png",
     "color": "black",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "arms"
   },
   {
@@ -4435,9 +4435,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png",
     "color": "black",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -4448,9 +4448,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png",
     "color": "green",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "forest",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -4460,9 +4460,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "grassland",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "arms"
   },
   {
@@ -4472,9 +4472,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png",
     "color": "white",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -4484,9 +4484,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "upright"
   },
   {
@@ -4496,9 +4496,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png",
     "color": "gray",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -4508,9 +4508,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png",
     "color": "gray",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "cave",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "ball"
   },
   {
@@ -4521,9 +4521,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/363.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "fish"
   },
   {
@@ -4534,9 +4534,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "fish"
   },
   {
@@ -4547,9 +4547,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/365.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -4559,9 +4559,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "ball"
   },
   {
@@ -4571,9 +4571,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/367.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "squiggle"
   },
   {
@@ -4583,9 +4583,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/368.png",
     "color": "pink",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "squiggle"
   },
   {
@@ -4596,9 +4596,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png",
     "color": "gray",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "fish"
   },
   {
@@ -4608,9 +4608,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/370.png",
     "color": "pink",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "sea",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "fish"
   },
   {
@@ -4620,9 +4620,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/371.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -4632,9 +4632,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/372.png",
     "color": "white",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -4645,9 +4645,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "quadruped"
   },
   {
@@ -4658,9 +4658,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "blob"
   },
   {
@@ -4671,9 +4671,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "arms"
   },
   {
@@ -4684,9 +4684,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "rough-terrain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "heads"
   },
   {
@@ -4696,9 +4696,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png",
     "color": "brown",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "cave",
-    "isLegendary": true,
+    "legendary": true,
     "shape": "humanoid"
   },
   {
@@ -4708,9 +4708,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/378.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "cave",
-    "isLegendary": true,
+    "legendary": true,
     "shape": "humanoid"
   },
   {
@@ -4720,9 +4720,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/379.png",
     "color": "gray",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "cave",
-    "isLegendary": true,
+    "legendary": true,
     "shape": "humanoid"
   },
   {
@@ -4733,9 +4733,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/380.png",
     "color": "red",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "waters-edge",
-    "isLegendary": true,
+    "legendary": true,
     "shape": "wings"
   },
   {
@@ -4746,9 +4746,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/381.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "waters-edge",
-    "isLegendary": true,
+    "legendary": true,
     "shape": "wings"
   },
   {
@@ -4758,9 +4758,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png",
     "color": "blue",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "sea",
-    "isLegendary": true,
+    "legendary": true,
     "shape": "fish"
   },
   {
@@ -4770,9 +4770,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383.png",
     "color": "red",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "rough-terrain",
-    "isLegendary": true,
+    "legendary": true,
     "shape": "upright"
   },
   {
@@ -4783,9 +4783,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png",
     "color": "green",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "rare",
-    "isLegendary": true,
+    "legendary": true,
     "shape": "squiggle"
   },
   {
@@ -4796,9 +4796,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png",
     "color": "yellow",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "mountain",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   },
   {
@@ -4808,9 +4808,9 @@
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386.png",
     "color": "red",
-    "generation": "generation-iii",
+    "generation": "III",
     "habitat": "rare",
-    "isLegendary": false,
+    "legendary": false,
     "shape": "humanoid"
   }
 ]

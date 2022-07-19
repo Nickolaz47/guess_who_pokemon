@@ -1,8 +1,19 @@
-
+import { useContext } from "react";
+import { PokemonContext } from "../context/PokemonContext";
+import { FilterContext } from "../context/FilterContext";
 
 export const useFilter = () => {
-    const filterPokemon = ({filter, option}) => {
+  const { pokemonDB, setPokemonDB } = useContext(PokemonContext);
+  const { filterDB, setFilterDB } = useContext(FilterContext);
 
-    }
-    const filterFilters = () => {}
-}
+  const filterPokemon = ({ filter, option }) => {
+    const filteredPokemonDB = pokemonDB.filter(
+      (pokemon) =>
+        pokemon[filter] !== option || pokemon[filter].includes(option)
+    );
+    return filteredPokemonDB;
+  };
+  const filterFilters = () => {};
+
+  return { filterPokemon, filterFilters };
+};
