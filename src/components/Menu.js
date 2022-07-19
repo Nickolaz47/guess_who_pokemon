@@ -1,25 +1,26 @@
-import styles from "./Menu.module.css";
-import filters from "../data/filters.json";
+// Hooks
 import { useState, useEffect, useContext } from "react";
-import { OptionContext } from "../context/OptionContext";
 import { useFilter } from "../hooks/useFilter";
-import { PokemonContext } from "../context/PokemonContext";
+// Contexts
+import { FilterContext } from "../context/FilterContext";
+import { OptionContext } from "../context/OptionContext";
+// CSS
+import styles from "./Menu.module.css";
 
 const Menu = () => {
-  const { pokemonDB, setPokemonDB } = useContext(PokemonContext);
+  const { filtersDB } = useContext(FilterContext);
   const { selectOption, setSelectedOption } = useContext(OptionContext);
-  const [allFilters, setAllFilters] = useState(filters);
   const [checkOption, setCheckOption] = useState();
-  const { filterPokemon } = useFilter();
+  const { filterPokemon, filterFilters } = useFilter();
 
   useEffect(() => {
     if (Object.keys(selectOption).length !== 0) {
       setCheckOption(true);
     }
   }, [selectOption]);
-
   const handleSelection = () => {
     filterPokemon(selectOption);
+    filterFilters(selectOption);
     setCheckOption(false);
   };
 
@@ -28,7 +29,7 @@ const Menu = () => {
       <h1>Who's that Pokémon?</h1>
       <p className={styles.select_display}>
         {/* Selects */}
-        {Object.entries(allFilters).map((entrie, idx) => (
+        {Object.entries(filtersDB).map((entrie, idx) => (
           <label key={idx}>
             {`${entrie[0]}:\u00a0\u00a0`}
             <select
@@ -43,7 +44,7 @@ const Menu = () => {
               }
               disabled={checkOption}
             >
-              <option selected>Choose</option>
+              <option>Choose</option>
               {entrie[1].map((value) => (
                 <option value={value} key={value}>
                   {value}
