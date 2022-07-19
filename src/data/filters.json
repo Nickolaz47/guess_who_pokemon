@@ -43,7 +43,7 @@
     "sea",
     "rare"
   ],
-  "legendary": [false, true],
+  "legendary": ["false", "true"],
   "shape": [
     "quadruped",
     "upright",

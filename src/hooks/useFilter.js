@@ -8,7 +8,19 @@ export const useFilter = () => {
 
   const filterPokemon = ({ filter, option }) => {
     const filteredPokemonDB = pokemonDB.filter(
-      (pokemon) => pokemon[filter] !== option
+      (pokemon) => {
+        if (pokemon[filter] !== "string") {
+          if(pokemon[filter].includes(option)) {
+            return pokemon
+          }
+          return false
+        } else {
+          if (pokemon[filter] !== option) {
+            return pokemon
+          }
+          return false
+        }
+      }
     );
     setPokemonDB(filteredPokemonDB);
   };

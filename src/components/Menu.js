@@ -6,7 +6,7 @@ import { useFilter } from "../hooks/useFilter";
 import { PokemonContext } from "../context/PokemonContext";
 
 const Menu = () => {
-  const {pokemonDB, setPokemonDB} = useContext(PokemonContext);
+  const { pokemonDB, setPokemonDB } = useContext(PokemonContext);
   const { selectOption, setSelectedOption } = useContext(OptionContext);
   const [allFilters, setAllFilters] = useState(filters);
   const [checkOption, setCheckOption] = useState();
@@ -21,8 +21,7 @@ const Menu = () => {
   const handleSelection = () => {
     filterPokemon(selectOption);
     setCheckOption(false);
-  }
-
+  };
 
   return (
     <div>
@@ -37,16 +36,17 @@ const Menu = () => {
               name={entrie[0]}
               id={entrie[0]}
               onChange={(e) =>
-                setSelectedOption({ filter: entrie[0], option: e.target.value })
+                setSelectedOption({
+                  filter: entrie[0],
+                  option: e.target.value,
+                })
               }
               disabled={checkOption}
             >
-              <option selected>
-                Choose
-              </option>
+              <option selected>Choose</option>
               {entrie[1].map((value) => (
                 <option value={value} key={value}>
-                  {value.toString()}
+                  {value}
                 </option>
               ))}
             </select>
