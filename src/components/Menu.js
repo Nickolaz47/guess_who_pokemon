@@ -13,16 +13,17 @@ const Menu = () => {
   const [checkOption, setCheckOption] = useState();
   const { filterPokemon, filterFilters } = useFilter();
 
-  useEffect(() => {
-    if (Object.keys(selectOption).length !== 0) {
-      setCheckOption(true);
-    }
-  }, [selectOption]);
   const handleSelection = () => {
     filterPokemon(selectOption);
     filterFilters(selectOption);
     setCheckOption(false);
   };
+
+  useEffect(() => {
+    if (Object.keys(selectOption).length !== 0) {
+      setCheckOption(true);
+    }
+  }, [selectOption]);
 
   return (
     <div>

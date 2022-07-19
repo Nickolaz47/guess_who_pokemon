@@ -11,9 +11,24 @@ export default function DisplayCard() {
   const { pokemonDB } = useContext(PokemonContext);
   return (
     <div className={styles.display}>
-      {pokemonDB.map(({ name, sprite }, idx) => (
-        <Card key={idx} name={name} sprite={sprite} />
-      ))}
+      {pokemonDB.map(
+        (
+          { name, sprite, types, color, generation, habitat, legendary, shape },
+          idx
+        ) => (
+          <Card
+            key={idx}
+            name={name}
+            sprite={sprite}
+            types={types}
+            color={color}
+            generation={generation}
+            habitat={habitat}
+            legendary={legendary}
+            shape={shape}
+          />
+        )
+      )}
     </div>
   );
 }

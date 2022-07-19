@@ -1,4 +1,4 @@
-.moldura {
+.frame {
   border: 1px solid black;
   background: radial-gradient(farthest-corner, cyan, rgb(77, 136, 212), blue),
     100%;
@@ -8,9 +8,14 @@
   border-radius: 5px;
 }
 
-.figura {
-  width: 125px;
-  height: 175px;
+.image {
+  width: 170px;
+  position: relative;
+}
+
+.figure {
+  width: auto;
+  height: auto;
   margin: 0px;
 }
 
@@ -19,7 +24,7 @@
   background: radial-gradient(black, gray, white), 100%;
 }
 
-.legenda {
+.subtitle {
   text-align: center;
   text-transform: capitalize;
   font-weight: bold;
@@ -42,4 +47,37 @@
   padding-top: 0px;
   height: 21px;
   font-size: 90%;
+}
+
+.tips {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 98%;
+  background: rgba(0, 0, 0, 0.6);
+  color: #ffffff;
+  font-family: "Quicksand", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex;
+  text-align: left;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.25s;
+}
+
+.tips:hover {
+  opacity: 1;
+}
+
+.tips:hover > * {
+  transform: translateY(0);
+}
+
+.tips > * {
+  transform: translateY(20px);
+  transition: transform 0.25s;
 }
