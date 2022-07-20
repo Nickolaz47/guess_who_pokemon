@@ -8,18 +8,20 @@ export const useFilter = () => {
   const { pokemonDB, setPokemonDB } = useContext(PokemonContext);
   const { filtersDB, setFiltersDB } = useContext(FilterContext);
 
-  const filterPokemon = ({ filter, option }) => {
+  const filterPokemon = ({ filter, option }, drewPokemon) => {
     const filteredPokemonDB = pokemonDB.filter((pokemon) => {
       if (pokemon[filter] !== "string") {
-        if (pokemon[filter].includes(option)) {
-          return pokemon;
+        if (drewPokemon[filter].includes(option)) {
+          return pokemon[filter].includes(option);
+        } else {
+          return !pokemon[filter].includes(option);
         }
-        return false;
       } else {
-        if (pokemon[filter] !== option) {
-          return pokemon;
+        if (drewPokemon[filter] === option) {
+          return pokemon[filter] === option;
+        } else {
+          return pokemon[filter] !== option;
         }
-        return false;
       }
     });
     setPokemonDB(filteredPokemonDB);

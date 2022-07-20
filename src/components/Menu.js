@@ -4,17 +4,19 @@ import { useFilter } from "../hooks/useFilter";
 // Contexts
 import { FilterContext } from "../context/FilterContext";
 import { OptionContext } from "../context/OptionContext";
+import { DrawnPokemonContext } from "../context/DrawnPokemonContext";
 // CSS
 import styles from "./Menu.module.css";
 
 const Menu = () => {
   const { filtersDB } = useContext(FilterContext);
   const { selectOption, setSelectedOption } = useContext(OptionContext);
+  const { drawnPokemon } = useContext(DrawnPokemonContext);
   const [checkOption, setCheckOption] = useState();
   const { filterPokemon, filterFilters } = useFilter();
-
+  console.log(drawnPokemon);
   const handleSelection = () => {
-    filterPokemon(selectOption);
+    filterPokemon(selectOption, drawnPokemon);
     filterFilters(selectOption);
     setCheckOption(false);
   };

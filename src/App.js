@@ -3,7 +3,7 @@ import DisplayCard from "./components/DisplayCard";
 import Menu from "./components/Menu";
 
 
-function App() {
+function App() {  
   return (
     <div>
       <Menu/>
