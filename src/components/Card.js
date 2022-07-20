@@ -17,7 +17,7 @@ export default function Card({
         <div className={styles.image}>
           <img className={styles.sprite} src={sprite} alt={name} />
           <div className={styles.tips}>
-            {`Types: ${types.join(", ")}`}
+            {`Type(s): ${types.join(", ")}`}
             <br />
             {`Color: ${color}`}
             <br />
