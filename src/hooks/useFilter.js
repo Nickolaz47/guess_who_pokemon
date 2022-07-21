@@ -10,7 +10,7 @@ export const useFilter = () => {
 
   const filterPokemon = ({ filter, option }, drewPokemon) => {
     const filteredPokemonDB = pokemonDB.filter((pokemon) => {
-      if (pokemon[filter] !== "string") {
+      if (typeof pokemon[filter] !== "string") {
         if (drewPokemon[filter].includes(option)) {
           return pokemon[filter].includes(option);
         } else {

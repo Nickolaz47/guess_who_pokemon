@@ -3,6 +3,7 @@ import Select from "./Select";
 // Hooks
 import { useState, useEffect, useContext } from "react";
 import { useFilter } from "../hooks/useFilter";
+import { useRestartGame } from "../hooks/useRestartGame";
 // Contexts
 import { FilterContext } from "../context/FilterContext";
 import { OptionContext } from "../context/OptionContext";
@@ -10,12 +11,14 @@ import { DrawnPokemonContext } from "../context/DrawnPokemonContext";
 // CSS
 
 const Menu = () => {
+  const [checkOption, setCheckOption] = useState();
+  const { filterPokemon, filterFilters } = useFilter();
+  const { restart } = useRestartGame();
+
   const { filtersDB } = useContext(FilterContext);
   const { selectOption, setSelectedOption } = useContext(OptionContext);
   const { drawnPokemon } = useContext(DrawnPokemonContext);
-  const [checkOption, setCheckOption] = useState();
-  const { filterPokemon, filterFilters } = useFilter();
-  console.log(drawnPokemon)
+
   const handleSelection = () => {
     filterPokemon(selectOption, drawnPokemon);
     filterFilters(selectOption);
@@ -41,6 +44,7 @@ const Menu = () => {
         <div>Selected option: {selectOption.option}</div>
       </div>
       <button onClick={handleSelection}>Try</button>
+      <button onClick={restart}>Restart</button>
     </div>
   );
 };
