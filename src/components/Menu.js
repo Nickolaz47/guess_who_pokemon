@@ -1,3 +1,5 @@
+// Components
+import Select from "./Select";
 // Hooks
 import { useState, useEffect, useContext } from "react";
 import { useFilter } from "../hooks/useFilter";
@@ -6,7 +8,6 @@ import { FilterContext } from "../context/FilterContext";
 import { OptionContext } from "../context/OptionContext";
 import { DrawnPokemonContext } from "../context/DrawnPokemonContext";
 // CSS
-import styles from "./Menu.module.css";
 
 const Menu = () => {
   const { filtersDB } = useContext(FilterContext);
@@ -14,7 +15,7 @@ const Menu = () => {
   const { drawnPokemon } = useContext(DrawnPokemonContext);
   const [checkOption, setCheckOption] = useState();
   const { filterPokemon, filterFilters } = useFilter();
-  console.log(drawnPokemon);
+  console.log(drawnPokemon)
   const handleSelection = () => {
     filterPokemon(selectOption, drawnPokemon);
     filterFilters(selectOption);
@@ -30,33 +31,11 @@ const Menu = () => {
   return (
     <div>
       <h1>Who's that Pokémon?</h1>
-      <p className={styles.select_display}>
-        {/* Selects */}
-        {Object.entries(filtersDB).map((entrie, idx) => (
-          <label key={idx}>
-            {`${entrie[0]}:\u00a0\u00a0`}
-            <select
-              key={entrie[0]}
-              name={entrie[0]}
-              id={entrie[0]}
-              onChange={(e) =>
-                setSelectedOption({
-                  filter: entrie[0],
-                  option: e.target.value,
-                })
-              }
-              disabled={checkOption}
-            >
-              <option>Choose</option>
-              {entrie[1].map((value) => (
-                <option value={value} key={value}>
-                  {value}
-                </option>
-              ))}
-            </select>
-          </label>
-        ))}
-      </p>
+      <Select
+        filtersDB={filtersDB}
+        checkOption={checkOption}
+        setSelectedOption={setSelectedOption}
+      />
       <div>
         <div>Selected filter: {selectOption.filter}</div>
         <div>Selected option: {selectOption.option}</div>

@@ -1,0 +1,34 @@
+import styles from "./Select.module.css";
+
+const Select = ({filtersDB, checkOption, setSelectedOption}) => {
+  return (
+    <p className={styles.select_display}>
+      {Object.entries(filtersDB).map((entrie, idx) => (
+        <label key={idx}>
+          {`${entrie[0]}:\u00a0\u00a0`}
+          <select
+            key={entrie[0]}
+            name={entrie[0]}
+            id={entrie[0]}
+            onChange={(e) =>
+              setSelectedOption({
+                filter: entrie[0],
+                option: e.target.value,
+              })
+            }
+            disabled={checkOption}
+          >
+            <option>Choose</option>
+            {entrie[1].map((value) => (
+              <option value={value} key={value}>
+                {value}
+              </option>
+            ))}
+          </select>
+        </label>
+      ))}
+    </p>
+  );
+};
+
+export default Select;
