@@ -5,6 +5,7 @@ import { PokemonContextProvider } from "./context/PokemonContext";
 import { FilterContextProvider } from "./context/FilterContext";
 import { DrawnPokemonContextProvider } from "./context/DrawnPokemonContext";
 import App from "./App";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const rootElement = document.getElementById("root");
 const root = createRoot(rootElement);

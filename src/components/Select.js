@@ -4,7 +4,7 @@ const Select = ({filtersDB, checkOption, setSelectedOption}) => {
   return (
     <p className={styles.select_display}>
       {Object.entries(filtersDB).map((entrie, idx) => (
-        <label key={idx}>
+        <label key={idx} className={styles.label}>
           {`${entrie[0]}:\u00a0\u00a0`}
           <select
             key={entrie[0]}

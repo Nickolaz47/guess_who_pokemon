@@ -1,5 +1,7 @@
 // Components
 import Select from "./Select";
+import FilterPokemon from "./FilterPokemon";
+import GameFeedback from "./GameFeedback";
 // Hooks
 import { useState, useEffect, useContext } from "react";
 import { useFilter } from "../hooks/useFilter";
@@ -9,6 +11,7 @@ import { FilterContext } from "../context/FilterContext";
 import { OptionContext } from "../context/OptionContext";
 import { DrawnPokemonContext } from "../context/DrawnPokemonContext";
 // CSS
+import styles from "./Menu.module.css";
 
 const Menu = () => {
   const [checkOption, setCheckOption] = useState();
@@ -32,19 +35,25 @@ const Menu = () => {
   }, [selectOption]);
 
   return (
-    <div>
-      <h1>Who's that Pokémon?</h1>
+    <div className="container">
+      <h1 className={styles.title}>Who's that Pokémon?</h1>
       <Select
         filtersDB={filtersDB}
         checkOption={checkOption}
         setSelectedOption={setSelectedOption}
       />
-      <div>
-        <div>Selected filter: {selectOption.filter}</div>
-        <div>Selected option: {selectOption.option}</div>
+      <div className="row">
+        <FilterPokemon
+          selectOption={selectOption}
+          handleSelection={handleSelection}
+        />
+        <GameFeedback />
+        <div className="col-md-4">
+          <button className="btn btn-warning" onClick={restart}>
+            Restart
+          </button>
+        </div>
       </div>
-      <button onClick={handleSelection}>Try</button>
-      <button onClick={restart}>Restart</button>
     </div>
   );
 };

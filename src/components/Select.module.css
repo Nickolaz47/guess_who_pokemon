@@ -1,4 +1,11 @@
 .select_display {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
+}
+
+.label {
+    text-transform: capitalize;
+    font-size: 18px;
+    padding: 0.3em;
 }

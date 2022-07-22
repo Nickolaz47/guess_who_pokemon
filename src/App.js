@@ -1,13 +1,14 @@
 // Components
 import DisplayCard from "./components/DisplayCard";
 import Menu from "./components/Menu";
+// CSS
+import "./App.css";
 
-
-function App() {  
+function App() {
   return (
     <div>
-      <Menu/>
-      <DisplayCard/>
+      <Menu />
+      <DisplayCard />
     </div>
   );
 }
