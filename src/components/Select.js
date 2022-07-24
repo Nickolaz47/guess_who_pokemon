@@ -27,7 +27,7 @@ const Select = ({ checkOption }) => {
             }
             disabled={checkOption}
           >
-            <option>Choose</option>
+            <option selected>Choose</option>
             {entrie[1].map((value) => (
               <option value={value} key={value}>
                 {value}

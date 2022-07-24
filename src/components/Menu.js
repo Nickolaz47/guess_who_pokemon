@@ -60,15 +60,28 @@ const Menu = () => {
           handleSelection={handleSelection}
         />
         <div className="col-md-4">
-          <button
-            className="btn btn-warning"
-            onClick={() => {
-              restart();
-              setCheckOption(false);
-            }}
-          >
-            Restart
-          </button>
+          {checkOption ? (
+            <button
+              className="btn btn-warning"
+              onClick={() => {
+                restart();
+                setCheckOption(false);
+              }}
+              disabled
+            >
+              Restart
+            </button>
+          ) : (
+            <button
+              className="btn btn-warning"
+              onClick={() => {
+                restart();
+                setCheckOption(false);
+              }}
+            >
+              Restart
+            </button>
+          )}
         </div>
       </div>
     </div>

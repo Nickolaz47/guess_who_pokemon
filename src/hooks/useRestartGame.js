@@ -17,14 +17,14 @@ export const useRestartGame = () => {
   const { setFiltersDB } = useContext(FilterContext);
   const { setSelectedOption } = useContext(OptionContext);
   const { setDrawnPokemon } = useContext(DrawnPokemonContext);
-  const {setRightAnswers} = useContext(RightAnswersContext);
-
+  const { setRightAnswers } = useContext(RightAnswersContext);
+  
   const restart = () => {
     setPokemonDB(pokemon);
     setFiltersDB(filters);
     setSelectedOption({});
     setDrawnPokemon(drawnPokemon);
-    setRightAnswers([])
+    setRightAnswers([]);
   };
 
   return { restart };
