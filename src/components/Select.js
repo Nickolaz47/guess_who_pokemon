@@ -1,6 +1,15 @@
+// Hooks
+import { useContext } from "react";
+// Contexts
+import { FilterContext } from "../context/FilterContext";
+import { OptionContext } from "../context/OptionContext";
+// CSS
 import styles from "./Select.module.css";
 
-const Select = ({filtersDB, checkOption, setSelectedOption}) => {
+const Select = ({ checkOption }) => {
+  const { filtersDB } = useContext(FilterContext);
+  const { setSelectedOption } = useContext(OptionContext);
+
   return (
     <p className={styles.select_display}>
       {Object.entries(filtersDB).map((entrie, idx) => (

@@ -4,22 +4,25 @@ import { OptionContextProvider } from "./context/OptionContext";
 import { PokemonContextProvider } from "./context/PokemonContext";
 import { FilterContextProvider } from "./context/FilterContext";
 import { DrawnPokemonContextProvider } from "./context/DrawnPokemonContext";
+import { RightAnswersContextProvider } from "./context/RightAnswersContext";
 import App from "./App";
-import 'bootstrap/dist/css/bootstrap.min.css';
+import "bootstrap/dist/css/bootstrap.min.css";
 
 const rootElement = document.getElementById("root");
 const root = createRoot(rootElement);
 
 root.render(
-  <DrawnPokemonContextProvider>
-    <PokemonContextProvider>
-      <FilterContextProvider>
-        <OptionContextProvider>
-          <StrictMode>
-            <App />
-          </StrictMode>
-        </OptionContextProvider>
-      </FilterContextProvider>
-    </PokemonContextProvider>
-  </DrawnPokemonContextProvider>
+  <RightAnswersContextProvider>
+    <DrawnPokemonContextProvider>
+      <PokemonContextProvider>
+        <FilterContextProvider>
+          <OptionContextProvider>
+            <StrictMode>
+              <App />
+            </StrictMode>
+          </OptionContextProvider>
+        </FilterContextProvider>
+      </PokemonContextProvider>
+    </DrawnPokemonContextProvider>
+  </RightAnswersContextProvider>
 );

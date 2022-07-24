@@ -7,9 +7,9 @@ import { useState, useEffect, useContext } from "react";
 import { useFilter } from "../hooks/useFilter";
 import { useRestartGame } from "../hooks/useRestartGame";
 // Contexts
-import { FilterContext } from "../context/FilterContext";
 import { OptionContext } from "../context/OptionContext";
 import { DrawnPokemonContext } from "../context/DrawnPokemonContext";
+import { RightAnswersContext } from "../context/RightAnswersContext";
 // CSS
 import styles from "./Menu.module.css";
 
@@ -18,14 +18,29 @@ const Menu = () => {
   const { filterPokemon, filterFilters } = useFilter();
   const { restart } = useRestartGame();
 
-  const { filtersDB } = useContext(FilterContext);
-  const { selectOption, setSelectedOption } = useContext(OptionContext);
+  const { selectOption } = useContext(OptionContext);
   const { drawnPokemon } = useContext(DrawnPokemonContext);
+  const { rightAnswers, setRightAnswers } = useContext(RightAnswersContext);
 
   const handleSelection = () => {
     filterPokemon(selectOption, drawnPokemon);
     filterFilters(selectOption);
     setCheckOption(false);
+    if (typeof drawnPokemon[selectOption.filter] === "string") {
+      if (
+        drawnPokemon[selectOption.filter] === selectOption.option &&
+        !rightAnswers.includes(selectOption.option)
+      ) {
+        setRightAnswers([selectOption.option, ...rightAnswers]);
+      }
+    } else {
+      if (
+        drawnPokemon[selectOption.filter].includes(selectOption.option) &&
+        !rightAnswers.includes(selectOption.option)
+      ) {
+        setRightAnswers([selectOption.option, ...rightAnswers]);
+      }
+    }
   };
 
   useEffect(() => {
@@ -37,19 +52,21 @@ const Menu = () => {
   return (
     <div className="container">
       <h1 className={styles.title}>Who's that Pokémon?</h1>
-      <Select
-        filtersDB={filtersDB}
-        checkOption={checkOption}
-        setSelectedOption={setSelectedOption}
-      />
+      <Select checkOption={checkOption} />
       <div className="row">
+        <GameFeedback />
         <FilterPokemon
           selectOption={selectOption}
           handleSelection={handleSelection}
         />
-        <GameFeedback />
         <div className="col-md-4">
-          <button className="btn btn-warning" onClick={restart}>
+          <button
+            className="btn btn-warning"
+            onClick={() => {
+              restart();
+              setCheckOption(false);
+            }}
+          >
             Restart
           </button>
         </div>
