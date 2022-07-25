@@ -2,7 +2,6 @@ import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import { OptionContextProvider } from "./context/OptionContext";
 import { PokemonContextProvider } from "./context/PokemonContext";
-import { FilterContextProvider } from "./context/FilterContext";
 import { DrawnPokemonContextProvider } from "./context/DrawnPokemonContext";
 import { RightAnswersContextProvider } from "./context/RightAnswersContext";
 import App from "./App";
@@ -15,13 +14,11 @@ root.render(
   <RightAnswersContextProvider>
     <DrawnPokemonContextProvider>
       <PokemonContextProvider>
-        <FilterContextProvider>
           <OptionContextProvider>
             <StrictMode>
               <App />
             </StrictMode>
           </OptionContextProvider>
-        </FilterContextProvider>
       </PokemonContextProvider>
     </DrawnPokemonContextProvider>
   </RightAnswersContextProvider>

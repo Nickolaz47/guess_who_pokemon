@@ -15,7 +15,7 @@ import styles from "./Menu.module.css";
 
 const Menu = () => {
   const [checkOption, setCheckOption] = useState();
-  const { filterPokemon, filterFilters } = useFilter();
+  const { filterPokemon } = useFilter();
   const { restart } = useRestartGame();
 
   const { selectOption } = useContext(OptionContext);
@@ -24,7 +24,6 @@ const Menu = () => {
 
   const handleSelection = () => {
     filterPokemon(selectOption, drawnPokemon);
-    filterFilters(selectOption);
     setCheckOption(false);
     if (typeof drawnPokemon[selectOption.filter] === "string") {
       if (
