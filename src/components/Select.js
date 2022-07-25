@@ -5,7 +5,7 @@ import { OptionContext } from "../context/OptionContext";
 // CSS
 import styles from "./Select.module.css";
 // Databases
-import filtersDB from "../data/filters.json"
+import filtersDB from "../data/filters.json";
 
 const Select = ({ checkOption }) => {
   const { setSelectedOption } = useContext(OptionContext);
@@ -19,6 +19,8 @@ const Select = ({ checkOption }) => {
             key={entrie[0]}
             name={entrie[0]}
             id={entrie[0]}
+            value={"Choose"}
+            defaultValue={"Choose"}
             onChange={(e) =>
               setSelectedOption({
                 filter: entrie[0],
@@ -27,7 +29,9 @@ const Select = ({ checkOption }) => {
             }
             disabled={checkOption}
           >
-            <option selected>Choose</option>
+            <option value={"Choose"} selected disabled>
+              Choose
+            </option>
             {entrie[1].map((value) => (
               <option value={value} key={value}>
                 {value}
