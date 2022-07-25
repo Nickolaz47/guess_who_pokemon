@@ -32,21 +32,7 @@
   background: radial-gradient(farthest-corner at 25px 25px, red, yellow, orange),
     100%;
   background-color: lightskyblue;
-}
-
-.btnGuess {
-  height: 5px;
-  margin-top: 3px;
-  background: radial-gradient(
-    farthest-corner at 25px 25px,
-    rgb(255, 184, 184),
-    rgb(255, 255, 195),
-    rgb(241, 209, 149)
-  );
-  padding: 10px;
-  padding-top: 0px;
-  height: 21px;
-  font-size: 90%;
+  margin-bottom: 5px;
 }
 
 .tips {

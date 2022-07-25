@@ -7,7 +7,7 @@ import { PokemonContext } from "../context/PokemonContext";
 // CSS
 import styles from "./DisplayCard.module.css";
 
-export default function DisplayCard() {
+const DisplayCard = () => {
   const { pokemonDB } = useContext(PokemonContext);
   return (
     <div className={styles.display}>
@@ -31,4 +31,6 @@ export default function DisplayCard() {
       )}
     </div>
   );
-}
+};
+
+export default DisplayCard;

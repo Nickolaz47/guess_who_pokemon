@@ -1,7 +1,11 @@
+// Hooks
+import { useContext } from "react";
+// Contexts
+import { ChosenPokemonContext } from "../context/ChosenPokemon";
 // CSS
 import styles from "./Card.module.css";
 
-export default function Card({
+const Card = ({
   name,
   sprite,
   types,
@@ -10,7 +14,9 @@ export default function Card({
   habitat,
   legendary,
   shape,
-}) {
+}) => {
+  const { setChosenPokemon } = useContext(ChosenPokemonContext);
+
   return (
     <div className={styles.frame}>
       <figure className={styles.figure}>
@@ -31,10 +37,15 @@ export default function Card({
           </div>
         </div>
         <figcaption className={styles.subtitle}>{name}</figcaption>
-        <button value={name} className={styles.btnGuess}>
+        <button
+          onClick={() => setChosenPokemon({ name, sprite })}
+          className="btn btn-outline-light"
+        >
           I choose you!
         </button>
       </figure>
     </div>
   );
-}
+};
+
+export default Card;

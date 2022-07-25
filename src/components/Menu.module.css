@@ -2,3 +2,9 @@
   text-align: center;
   font-size: 3em;
 }
+
+.background {
+  background-image: linear-gradient(#606060, #202020);
+  color: white;
+  padding: 10px;
+}

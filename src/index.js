@@ -4,6 +4,7 @@ import { OptionContextProvider } from "./context/OptionContext";
 import { PokemonContextProvider } from "./context/PokemonContext";
 import { DrawnPokemonContextProvider } from "./context/DrawnPokemonContext";
 import { RightAnswersContextProvider } from "./context/RightAnswersContext";
+import { ChosenPokemonContextProvider } from "./context/ChosenPokemon";
 import App from "./App";
 import "bootstrap/dist/css/bootstrap.min.css";
 
@@ -11,15 +12,17 @@ const rootElement = document.getElementById("root");
 const root = createRoot(rootElement);
 
 root.render(
-  <RightAnswersContextProvider>
-    <DrawnPokemonContextProvider>
-      <PokemonContextProvider>
+  <ChosenPokemonContextProvider>
+    <RightAnswersContextProvider>
+      <DrawnPokemonContextProvider>
+        <PokemonContextProvider>
           <OptionContextProvider>
             <StrictMode>
               <App />
             </StrictMode>
           </OptionContextProvider>
-      </PokemonContextProvider>
-    </DrawnPokemonContextProvider>
-  </RightAnswersContextProvider>
+        </PokemonContextProvider>
+      </DrawnPokemonContextProvider>
+    </RightAnswersContextProvider>
+  </ChosenPokemonContextProvider>
 );

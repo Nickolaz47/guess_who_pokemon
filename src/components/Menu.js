@@ -2,10 +2,10 @@
 import Select from "./Select";
 import FilterPokemon from "./FilterPokemon";
 import GameFeedback from "./GameFeedback";
+import GameResult from "./GameResult";
 // Hooks
 import { useState, useEffect, useContext } from "react";
 import { useFilter } from "../hooks/useFilter";
-import { useRestartGame } from "../hooks/useRestartGame";
 // Contexts
 import { OptionContext } from "../context/OptionContext";
 import { DrawnPokemonContext } from "../context/DrawnPokemonContext";
@@ -16,7 +16,6 @@ import styles from "./Menu.module.css";
 const Menu = () => {
   const [checkOption, setCheckOption] = useState();
   const { filterPokemon } = useFilter();
-  const { restart } = useRestartGame();
 
   const { selectOption } = useContext(OptionContext);
   const { drawnPokemon } = useContext(DrawnPokemonContext);
@@ -55,7 +54,7 @@ const Menu = () => {
   }, [selectOption]);
 
   return (
-    <div className="container">
+    <div className={`container-fluid ${styles.background}`}>
       <h1 className={styles.title}>Who's that Pokémon?</h1>
       <Select checkOption={checkOption} />
       <div className="row">
@@ -64,30 +63,7 @@ const Menu = () => {
           selectOption={selectOption}
           handleSelection={handleSelection}
         />
-        <div className="col-md-4">
-          {checkOption ? (
-            <button
-              className="btn btn-warning"
-              onClick={() => {
-                restart();
-                setCheckOption(false);
-              }}
-              disabled
-            >
-              Restart
-            </button>
-          ) : (
-            <button
-              className="btn btn-warning"
-              onClick={() => {
-                restart();
-                setCheckOption(false);
-              }}
-            >
-              Restart
-            </button>
-          )}
-        </div>
+        <GameResult checkOption={checkOption} setCheckOption={setCheckOption} />
       </div>
     </div>
   );
