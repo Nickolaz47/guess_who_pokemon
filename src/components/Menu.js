@@ -30,14 +30,20 @@ const Menu = () => {
         drawnPokemon[selectOption.filter] === selectOption.option &&
         !rightAnswers.includes(selectOption.option)
       ) {
-        setRightAnswers([selectOption.option, ...rightAnswers]);
+        setRightAnswers([
+          `${selectOption.filter}: ${selectOption.option}`,
+          ...rightAnswers,
+        ]);
       }
     } else {
       if (
         drawnPokemon[selectOption.filter].includes(selectOption.option) &&
         !rightAnswers.includes(selectOption.option)
       ) {
-        setRightAnswers([selectOption.option, ...rightAnswers]);
+        setRightAnswers([
+          `${selectOption.filter}: ${selectOption.option}`,
+          ...rightAnswers,
+        ]);
       }
     }
   };
