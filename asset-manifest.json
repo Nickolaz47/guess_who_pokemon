@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/guess_who_pokemon/static/css/main.f7bec032.css",
-    "main.js": "/guess_who_pokemon/static/js/main.993fa384.js",
+    "main.js": "/guess_who_pokemon/static/js/main.5e19f80e.js",
     "index.html": "/guess_who_pokemon/index.html",
     "main.f7bec032.css.map": "/guess_who_pokemon/static/css/main.f7bec032.css.map",
-    "main.993fa384.js.map": "/guess_who_pokemon/static/js/main.993fa384.js.map"
+    "main.5e19f80e.js.map": "/guess_who_pokemon/static/js/main.5e19f80e.js.map"
   },
   "entrypoints": [
     "static/css/main.f7bec032.css",
-    "static/js/main.993fa384.js"
+    "static/js/main.5e19f80e.js"
   ]
 }
