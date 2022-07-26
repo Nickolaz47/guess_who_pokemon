@@ -1,19 +1,40 @@
 // Hooks
-import { useContext } from "react";
+import { useContext, useEffect, useState } from "react";
 // Contexts
 import { PokemonContext } from "../context/PokemonContext";
-import { RightAnswersContext } from "../context/RightAnswersContext";
+import { FeaturesContext } from "../context/FeaturesContext";
 
 const GameFeedback = () => {
+  const [rightFeatures, setRightFeatures] = useState([]);
+  const [wrongFeatures, setWrongFeatures] = useState([]);
   const { pokemonDB } = useContext(PokemonContext);
-  const { rightAnswers } = useContext(RightAnswersContext);
+  const { features } = useContext(FeaturesContext);
+
+  useEffect(() => {
+    const filteredRightFeatures = features.filter(
+      (feature) => feature.type === "right"
+    );
+    const filteredWrongFeatures = features.filter(
+      (feature) => feature.type === "wrong"
+    );
+    setRightFeatures(
+      filteredRightFeatures.map((rightFeature) => rightFeature.name)
+    );
+    setWrongFeatures(
+      filteredWrongFeatures.map((wrongFeature) => wrongFeature.name)
+    );
+  }, [features]);
 
   return (
     <div className="col-md-4 text-center">
       <p>Remaining Pokémon: {pokemonDB.length}</p>
-      <span>Right answers</span>
+      <span>Right features</span>
       <div className="p-2 mb-2 bg-success text-white" style={{ opacity: 0.6 }}>
-        {rightAnswers.join(", ")}
+        {rightFeatures.join(", ")}
+      </div>
+      <span>Wrong features</span>
+      <div className="p-2 mb-2 bg-danger text-white" style={{ opacity: 0.6 }}>
+        {wrongFeatures.join(", ")}
       </div>
     </div>
   );

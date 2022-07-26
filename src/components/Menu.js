@@ -9,7 +9,7 @@ import { useFilter } from "../hooks/useFilter";
 // Contexts
 import { OptionContext } from "../context/OptionContext";
 import { DrawnPokemonContext } from "../context/DrawnPokemonContext";
-import { RightAnswersContext } from "../context/RightAnswersContext";
+import { FeaturesContext } from "../context/FeaturesContext";
 // CSS
 import styles from "./Menu.module.css";
 
@@ -19,7 +19,7 @@ const Menu = () => {
 
   const { selectOption } = useContext(OptionContext);
   const { drawnPokemon } = useContext(DrawnPokemonContext);
-  const { rightAnswers, setRightAnswers } = useContext(RightAnswersContext);
+  const { features, setFeatures } = useContext(FeaturesContext);
 
   const handleSelection = () => {
     filterPokemon(selectOption, drawnPokemon);
@@ -27,22 +27,42 @@ const Menu = () => {
     if (typeof drawnPokemon[selectOption.filter] === "string") {
       if (
         drawnPokemon[selectOption.filter] === selectOption.option &&
-        !rightAnswers.includes(selectOption.option)
+        !features.includes(selectOption.option)
       ) {
-        setRightAnswers([
-          `${selectOption.filter}: ${selectOption.option}`,
-          ...rightAnswers,
-        ]);
+        const feature = {
+          name: `${selectOption.filter}: ${selectOption.option}`,
+          type: "right",
+        };
+        setFeatures([feature, ...features]);
+      } else if (
+        drawnPokemon[selectOption.filter] !== selectOption.option &&
+        !features.includes(selectOption.option)
+      ) {
+        const feature = {
+          name: `${selectOption.filter}: ${selectOption.option}`,
+          type: "wrong",
+        };
+        setFeatures([feature, ...features]);
       }
     } else {
       if (
         drawnPokemon[selectOption.filter].includes(selectOption.option) &&
-        !rightAnswers.includes(selectOption.option)
+        !features.includes(selectOption.option)
       ) {
-        setRightAnswers([
-          `${selectOption.filter}: ${selectOption.option}`,
-          ...rightAnswers,
-        ]);
+        const feature = {
+          name: `${selectOption.filter}: ${selectOption.option}`,
+          type: "right",
+        };
+        setFeatures([feature, ...features]);
+      } else if (
+        !drawnPokemon[selectOption.filter].includes(selectOption.option) &&
+        !features.includes(selectOption.option)
+      ) {
+        const feature = {
+          name: `${selectOption.filter}: ${selectOption.option}`,
+          type: "wrong",
+        };
+        setFeatures([feature, ...features]);
       }
     }
   };

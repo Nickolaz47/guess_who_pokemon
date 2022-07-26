@@ -3,7 +3,7 @@ import { createRoot } from "react-dom/client";
 import { OptionContextProvider } from "./context/OptionContext";
 import { PokemonContextProvider } from "./context/PokemonContext";
 import { DrawnPokemonContextProvider } from "./context/DrawnPokemonContext";
-import { RightAnswersContextProvider } from "./context/RightAnswersContext";
+import { FeaturesContextProvider } from "./context/FeaturesContext";
 import { GameOutcomeContextProvider } from "./context/GameOutcomeContext";
 import App from "./App";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -13,7 +13,7 @@ const root = createRoot(rootElement);
 
 root.render(
   <GameOutcomeContextProvider>
-    <RightAnswersContextProvider>
+    <FeaturesContextProvider>
       <DrawnPokemonContextProvider>
         <PokemonContextProvider>
           <OptionContextProvider>
@@ -23,6 +23,6 @@ root.render(
           </OptionContextProvider>
         </PokemonContextProvider>
       </DrawnPokemonContextProvider>
-    </RightAnswersContextProvider>
+    </FeaturesContextProvider>
   </GameOutcomeContextProvider>
 );

@@ -5,7 +5,7 @@ import { useDrawPokemon } from "./useDrawPokemon";
 import { PokemonContext } from "../context/PokemonContext";
 import { OptionContext } from "../context/OptionContext";
 import { DrawnPokemonContext } from "../context/DrawnPokemonContext";
-import { RightAnswersContext } from "../context/RightAnswersContext";
+import { FeaturesContext } from "../context/FeaturesContext";
 import { GameOutcomeContext } from "../context/GameOutcomeContext";
 // Databases
 import pokemon from "../data/pokemon1_3.json";
@@ -15,14 +15,14 @@ export const useRestartGame = () => {
   const { setPokemonDB } = useContext(PokemonContext);
   const { setSelectedOption } = useContext(OptionContext);
   const { setDrawnPokemon } = useContext(DrawnPokemonContext);
-  const { setRightAnswers } = useContext(RightAnswersContext);
+  const { setFeatures } = useContext(FeaturesContext);
   const { setGameOutcome } = useContext(GameOutcomeContext);
 
   const restart = () => {
     setPokemonDB(pokemon);
     setSelectedOption({});
     setDrawnPokemon(drawnPokemon);
-    setRightAnswers([]);
+    setFeatures([]);
     setGameOutcome(null);
   };
 
