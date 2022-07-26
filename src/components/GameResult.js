@@ -51,6 +51,16 @@ const GameResult = ({ checkOption, setCheckOption }) => {
             Restart
           </button>
         )}
+        <p>
+          <a
+            className="link-light"
+            href="https://github.com/Nickolaz47/guess_who_pokemon"
+            rel="noreferrer"
+            target="_blank"
+          >
+            Manual
+          </a>
+        </p>
       </div>
     </div>
   );
