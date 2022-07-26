@@ -1,7 +1,5 @@
 // Hooks
-import { useContext } from "react";
-// Contexts
-import { ChosenPokemonContext } from "../context/ChosenPokemon";
+import { useCheckResult } from "../hooks/useCheckResult";
 // CSS
 import styles from "./Card.module.css";
 
@@ -15,8 +13,7 @@ const Card = ({
   legendary,
   shape,
 }) => {
-  const { setChosenPokemon } = useContext(ChosenPokemonContext);
-
+  const { checkResult } = useCheckResult();
   return (
     <div className={styles.frame}>
       <figure className={styles.figure}>
@@ -38,7 +35,7 @@ const Card = ({
         </div>
         <figcaption className={styles.subtitle}>{name}</figcaption>
         <button
-          onClick={() => setChosenPokemon({ name, sprite })}
+          onClick={() => checkResult({ name, sprite })}
           className="btn btn-outline-light"
         >
           I choose you!

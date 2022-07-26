@@ -4,7 +4,7 @@ import { OptionContextProvider } from "./context/OptionContext";
 import { PokemonContextProvider } from "./context/PokemonContext";
 import { DrawnPokemonContextProvider } from "./context/DrawnPokemonContext";
 import { RightAnswersContextProvider } from "./context/RightAnswersContext";
-import { ChosenPokemonContextProvider } from "./context/ChosenPokemon";
+import { GameOutcomeContextProvider } from "./context/GameOutcomeContext";
 import App from "./App";
 import "bootstrap/dist/css/bootstrap.min.css";
 
@@ -12,7 +12,7 @@ const rootElement = document.getElementById("root");
 const root = createRoot(rootElement);
 
 root.render(
-  <ChosenPokemonContextProvider>
+  <GameOutcomeContextProvider>
     <RightAnswersContextProvider>
       <DrawnPokemonContextProvider>
         <PokemonContextProvider>
@@ -24,5 +24,5 @@ root.render(
         </PokemonContextProvider>
       </DrawnPokemonContextProvider>
     </RightAnswersContextProvider>
-  </ChosenPokemonContextProvider>
+  </GameOutcomeContextProvider>
 );

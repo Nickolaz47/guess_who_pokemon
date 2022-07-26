@@ -1,23 +1,28 @@
 // Hooks
-import { useRestartGame } from "../hooks/useRestartGame";
 import { useContext } from "react";
+import { useRestartGame } from "../hooks/useRestartGame";
 // Contexts
+import { GameOutcomeContext } from "../context/GameOutcomeContext";
 import { DrawnPokemonContext } from "../context/DrawnPokemonContext";
-import { ChosenPokemonContext } from "../context/ChosenPokemon";
 
 const GameResult = ({ checkOption, setCheckOption }) => {
   const { restart } = useRestartGame();
-
+  const { gameOutcome } = useContext(GameOutcomeContext);
   const { drawnPokemon } = useContext(DrawnPokemonContext);
-  const { chosenPokemon } = useContext(ChosenPokemonContext);
 
   return (
     <div className="col-md-4">
       <div>
-        <h4>The pokemon was: </h4>
-        <div>
-          {drawnPokemon.name === chosenPokemon.name ? "certo" : "errado"}
-        </div>
+        {gameOutcome && (
+          <div>
+            You must be a Pokémon master! You guessed the pokemon was {drawnPokemon.name}!
+          </div>
+        )}
+        {gameOutcome === false && (
+          <div>
+            You need to study the Pokédex a little more. The right pokemon was {drawnPokemon.name}.
+          </div>
+        )}
       </div>
       <div className="text-center">
         {checkOption ? (
