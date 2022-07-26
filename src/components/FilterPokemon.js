@@ -4,8 +4,8 @@ const FilterPokemon = ({selectOption, handleSelection}) => {
       <div>Selected filter: {selectOption.filter}</div>
       <div>Selected option: {selectOption.option}</div>
       <div className="text-center">
-        <button className="btn btn-info col-2" onClick={handleSelection}>
-          Try
+        <button className="btn btn-info m-2 btn-lg" onClick={handleSelection}>
+          Filter out
         </button>
       </div>
     </div>

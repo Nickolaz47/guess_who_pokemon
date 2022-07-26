@@ -14,20 +14,24 @@ const GameResult = ({ checkOption, setCheckOption }) => {
     <div className="col-md-4">
       <div>
         {gameOutcome && (
-          <div>
-            You must be a Pokémon master! You guessed the pokemon was {drawnPokemon.name}!
+          <div className="p-1 mb-2 text-success bg-light">
+            You must be a Pokémon master! You guessed the pokemon was{" "}
+            <span className="text-capitalize fw-bold">{drawnPokemon.name}</span>
+            !
           </div>
         )}
         {gameOutcome === false && (
-          <div>
-            You need to study the Pokédex a little more. The right pokemon was {drawnPokemon.name}.
+          <div className="p-1 mb-2 text-danger bg-light">
+            You need to study the Pokédex a little more. The right pokemon was{" "}
+            <span className="text-capitalize fw-bold">{drawnPokemon.name}</span>
+            .
           </div>
         )}
       </div>
       <div className="text-center">
         {checkOption ? (
           <button
-            className="btn btn-warning"
+            className="btn btn-warning m-2"
             onClick={() => {
               restart();
               setCheckOption(false);
@@ -38,7 +42,7 @@ const GameResult = ({ checkOption, setCheckOption }) => {
           </button>
         ) : (
           <button
-            className="btn btn-warning"
+            className="btn btn-warning m-2"
             onClick={() => {
               restart();
               setCheckOption(false);
