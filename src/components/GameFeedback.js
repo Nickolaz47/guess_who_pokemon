@@ -1,13 +1,11 @@
 // Hooks
 import { useContext, useEffect, useState } from "react";
 // Contexts
-import { PokemonContext } from "../context/PokemonContext";
 import { FeaturesContext } from "../context/FeaturesContext";
 
 const GameFeedback = () => {
   const [rightFeatures, setRightFeatures] = useState([]);
   const [wrongFeatures, setWrongFeatures] = useState([]);
-  const { pokemonDB } = useContext(PokemonContext);
   const { features } = useContext(FeaturesContext);
 
   useEffect(() => {
@@ -27,13 +25,18 @@ const GameFeedback = () => {
 
   return (
     <div className="col-md-4 text-center">
-      <p>Remaining Pokémon: {pokemonDB.length}</p>
       <span>Right features</span>
-      <div className="p-2 mb-2 bg-success text-white" style={{ opacity: 0.6 }}>
+      <div
+        className="p-2 mb-2 bg-success text-white rounded"
+        style={{ opacity: 0.6 }}
+      >
         {rightFeatures.join(", ")}
       </div>
       <span>Wrong features</span>
-      <div className="p-2 mb-2 bg-danger text-white" style={{ opacity: 0.6 }}>
+      <div
+        className="p-2 mb-2 bg-danger text-white rounded"
+        style={{ opacity: 0.6 }}
+      >
         {wrongFeatures.join(", ")}
       </div>
     </div>

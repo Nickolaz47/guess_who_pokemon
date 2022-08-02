@@ -1,6 +1,14 @@
-const FilterPokemon = ({selectOption, handleSelection}) => {
+// Hooks
+import { useContext } from "react";
+// Contexts
+import { PokemonContext } from "../context/PokemonContext";
+
+const FilterPokemon = ({ selectOption, handleSelection }) => {
+  const { pokemonDB } = useContext(PokemonContext);
+
   return (
     <div className="col-md-4">
+      <p className="text-center">Remaining Pokémon: {pokemonDB.length}</p>
       <div>Selected filter: {selectOption.filter}</div>
       <div>Selected option: {selectOption.option}</div>
       <div className="text-center">

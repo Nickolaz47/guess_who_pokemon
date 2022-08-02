@@ -14,15 +14,15 @@ const GameResult = ({ checkOption, setCheckOption }) => {
     <div className="col-md-4">
       <div>
         {gameOutcome && (
-          <div className="p-1 mb-2 text-success bg-light">
-            You must be a Pokémon master! You guessed the pokemon was{" "}
+          <div className="p-1 mb-2 text-success bg-light rounded">
+            You must be a Pokémon master! You guessed the Pokémon was{" "}
             <span className="text-capitalize fw-bold">{drawnPokemon.name}</span>
             !
           </div>
         )}
         {gameOutcome === false && (
-          <div className="p-1 mb-2 text-danger bg-light">
-            You need to study the Pokédex a little more. The right pokemon was{" "}
+          <div className="p-1 mb-2 text-danger bg-light rounded">
+            You need to study the Pokédex a little more. The right Pokémon was{" "}
             <span className="text-capitalize fw-bold">{drawnPokemon.name}</span>
             .
           </div>
